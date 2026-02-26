@@ -8,6 +8,3 @@ This project is for educational and study purposes only, with no commercial inte
 **Isenção de Responsabilidade (Português):**
 Este projeto é apenas para fins educacionais e de estudo, sem intenção comercial. Envolve engenharia reversa para aprendizado; os usuários assumem todos os riscos. Sem garantia ou responsabilidade. Não distribui materiais originais protegidos por direitos autorais. O uso pode violar os termos do fabricante—prossiga por sua conta e risco.
 
-## Documentação
-
-Consulte a [documentação completa do projeto](DOCS/README.md) para entender a arquitetura, como adicionar novas funcionalidades e o funcionamento interno.
